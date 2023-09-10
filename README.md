@@ -8,14 +8,21 @@ Welcome to my repository showcasing Power BI projects created as part of the PwC
 **Description:** Visualizing customer and agent behavior trends in a call center environment.
 **Key Insights:** Gain valuable insights into call volume, customer satisfaction, and agent performance.
 
+![Call Centre Trends](images/Call%20Center%20Trends-1.png)
+
 ### 2. Customer Retention
 **Description:** Analyzing customer demographics and providing insights into customer retention strategies.
 **Key Insights:** Identify key customer segments, churn risks, and retention opportunities.
+
+![Customer Retention](images/Customer%20Retention%20Project--1.png)
+
+![Customer Retention](images/Customer%20Retention%20Project--2.png)
 
 ### 3. Diversity & Inclusion
 **Description:** Exploring gender balance in the executive suite of an organization.
 **Key Insights:** Evaluate gender diversity metrics among top executives and recommend strategies for improving diversity and inclusion.
 
+![Diversity & Inclusion](images/Diversity%20%26%20Inclusion%20Project-1.png)
 
 **Your feedback and suggestions are highly appreciated. Thank you for visiting my repository, and I hope you find these Power BI projects informative and valuable.**
 
